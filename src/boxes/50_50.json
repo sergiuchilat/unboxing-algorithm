@@ -1,0 +1,16 @@
+{
+  "name": "Box Name",
+  "unboxing_price": 110,
+  "items": [
+    {
+      "name": "Item 1",
+      "price": 100.00,
+      "win_chance": 50.00
+    },
+    {
+      "name": "Item 2",
+      "price": 100.00,
+      "win_chance": 50.00
+    }
+  ]
+}

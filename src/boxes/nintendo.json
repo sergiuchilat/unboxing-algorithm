@@ -1,0 +1,82 @@
+{
+  "name": "Nintendo",
+  "unboxing_price": 98.96,
+  "house_edge": 10,
+  "items": [
+    {
+      "name": "Voucher",
+      "price": 0.01,
+      "win_chance": 42.7
+    },
+    {
+      "name": "Nintendo Switch Super Smash Bros. Ultimate Edition Console HACSKAELE Grey, collectibles, unisex",
+      "price": 2999,
+      "win_chance": 0.1
+    },
+    {
+      "name": "Nintendo Switch The Legend of Zelda: Breath of the Wild Master Edition Video Game, collectibles, unisex",
+      "price": 1999,
+      "win_chance": 0.2
+    },
+    {
+      "name": "Nintendo Switch OLED with Pro Controller and The Legend of Zelda: Breath of the Wild Game Bundle NS-HEGSKAAAA White, collectibles, unisex",
+      "price": 469,
+      "win_chance": 1
+    },
+    {
+      "name": "Nintendo Switch OLED with Pro Controller and Super Smash Bros Ultimate Game Bundle NS-HEGSKABAA Neon Blue/Neon Red, collectibles, unisex",
+      "price": 469,
+      "win_chance": 1
+    },
+    {
+      "name": "Nintendo Switch Console HADSKAAAA Grey, collectibles, unisex",
+      "price": 287,
+      "win_chance": 3
+    },
+    {
+      "name": "Nintendo Switch  (OLED) HEGSKAAAA USZ White, collectibles, unisex",
+      "price": 299,
+      "win_chance": 3
+    },
+    {
+      "name": "Nintendo Switch Lite Zacian and Zamazenta Pokemon Edition Gray - US Charger (HDHSGBZAA), collectibles, unisex",
+      "price": 320,
+      "win_chance": 3
+    },
+    {
+      "name": "Vans Authentic Nintendo Super Mario Bros Tie-Dye, sneakers, 4.5, men",
+      "price": 260,
+      "win_chance": 3
+    },
+    {
+      "name": "Nintendo Switch (OLED) HEGSKABAA USZ Neon Red/Neon Blue, collectibles, unisex",
+      "price": 280,
+      "win_chance": 3
+    },
+    {
+      "name": "Nintendo Pokemon Go Plus Plus Controller, collectibles, unisex",
+      "price": 101,
+      "win_chance": 5
+    },
+    {
+      "name": "Reebok Aztrek Nintendo, sneakers, 4.5, men",
+      "price": 151,
+      "win_chance": 5
+    },
+    {
+      "name": "Nintendo Super Mario Luigi amiibo, collectibles, unisex",
+      "price": 63,
+      "win_chance": 10
+    },
+    {
+      "name": "Nintendo Super Mario amiibo, collectibles, unisex",
+      "price": 63,
+      "win_chance": 10
+    },
+    {
+      "name": "WB Games Nintendo Switch/Lite LEGO Star Wars: The Skywalker Saga Standard Edition Video Game, collectibles, unisex",
+      "price": 50,
+      "win_chance": 10
+    }
+  ]
+}

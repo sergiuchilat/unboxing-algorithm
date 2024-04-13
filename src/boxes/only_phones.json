@@ -1,0 +1,47 @@
+{
+  "name": "Only Phones",
+  "unboxing_price": 477.79,
+  "house_edge": 10,
+  "items": [
+    {
+      "name": "Voucher",
+      "price": 0.01,
+      "win_chance": 30
+    },
+    {
+      "name": "Apple iPhone 14 Pro Max A2651 (US Unlocked) Space Black, collectibles, 512 GB MQ8X3LL/A, unisex",
+      "price": 999,
+      "win_chance": 5
+    },
+    {
+      "name": "Apple iPhone 13 A2482 (US Unlocked) Blue, collectibles, 128 GB MLMT3LL/A, unisex",
+      "price": 659,
+      "win_chance": 10
+    },
+    {
+      "name": "Apple iPhone 14 Pro Max A2651 (US Unlocked) Deep Purple, collectibles, 128 GB MQ8R3LL/A, unisex",
+      "price": 750,
+      "win_chance": 10
+    },
+    {
+      "name": "Samsung Galaxy S22 Ultra 5G (Unlocked) Burgundy, collectibles, 128 GB SM-S908UDRAXAA, unisex",
+      "price": 750,
+      "win_chance": 10
+    },
+    {
+      "name": "Samsung Galaxy Z Fold3 5G 256GB (Unlocked) SM-F926BZKDEUA (UK Version) Phantom Black, collectibles, unisex",
+      "price": 760,
+      "win_chance": 10
+    },
+    {
+      "name": "Google Pixel 6a 128GB (US Unlocked) GA03715-US Sage Green, collectibles, unisex",
+      "price": 250,
+      "win_chance": 15
+    },
+    {
+      "name": "Google Pixel 3 XL (Unlocked) 64GB Not Pink, collectibles, 64 GB G013C, unisex",
+      "price": 550,
+      "win_chance": 10
+    }
+  ]
+}

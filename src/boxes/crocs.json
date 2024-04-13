@@ -1,0 +1,117 @@
+{
+  "name": "CROCS",
+  "unboxing_price": 9.88,
+  "house_edge": 10,
+  "items": [
+    {
+      "name": "Crocs Classic Clog Margaritaville, sneakers, 10, men",
+      "price": 74,
+      "win_chance": 0.7
+    },
+    {
+      "name": "Voucher",
+      "price": 0.1,
+      "win_chance": 88.6
+    },
+    {
+      "name": "Crocs Classic Clog Peeps Pink, sneakers, 10, men",
+      "price": 165,
+      "win_chance": 0.1
+    },
+    {
+      "name": "Crocs Classic Clog Bad Bunny, sneakers, 9, men",
+      "price": 200,
+      "win_chance": 0.1
+    },
+    {
+      "name": "Crocs Classic Clog Lightning McQueen, sneakers, 10, men",
+      "price": 100,
+      "win_chance": 0.2
+    },
+    {
+      "name": "Crocs Classic Clog Naruto Shippuden Kakashi, sneakers, 6, men",
+      "price": 99,
+      "win_chance": 0.3
+    },
+    {
+      "name": "Crocs Classic Clog Mater, sneakers, 7, men",
+      "price": 120,
+      "win_chance": 0.2
+    },
+    {
+      "name": "Crocs Classic Clog DreamWorks Shrek, sneakers, 14, men",
+      "price": 112,
+      "win_chance": 0.2
+    },
+    {
+      "name": "Crocs Classic Clog Toy Story Buzz Lightyear, sneakers, 10, men",
+      "price": 86,
+      "win_chance": 0.5
+    },
+    {
+      "name": "Crocs Off Court Clog Toy Story Pizza Planet, sneakers, 13, men",
+      "price": 83,
+      "win_chance": 0.5
+    },
+    {
+      "name": "Crocs Classic Clog Toy Story Woody, sneakers, 13, men",
+      "price": 79,
+      "win_chance": 0.7
+    },
+    {
+      "name": "Crocs Classic Clog Cinnamon Toast Crunch (GS), sneakers, 3J, child",
+      "price": 76,
+      "win_chance": 0.7
+    },
+    {
+      "name": "Crocs Classic Clog Trix, sneakers, 12, men",
+      "price": 88,
+      "win_chance": 0.7
+    },
+    {
+      "name": "Crocs Classic Clog Honey Nut Cheerios, sneakers, 10, men",
+      "price": 77,
+      "win_chance": 0.7
+    },
+    {
+      "name": "Crocs Bistro Clog Black Lightning Bolts, sneakers, 9, men",
+      "price": 98,
+      "win_chance": 0.3
+    },
+    {
+      "name": "Crocs Echo Clog White, sneakers, 10, men",
+      "price": 79,
+      "win_chance": 0.7
+    },
+    {
+      "name": "Crocs Classic Clog Peanuts, sneakers, 4, men",
+      "price": 82,
+      "win_chance": 0.7
+    },
+    {
+      "name": "Crocs Classic Clog General Mills Franken Berry, sneakers, 6, men",
+      "price": 80,
+      "win_chance": 0.7
+    },
+    {
+      "name": "Crocs Classic Clog Create Your Peace Black, sneakers, 12, men",
+      "price": 70,
+      "win_chance": 0.7
+    },
+    {
+      "name": "Crocs Classic Clog JJJJound White, sneakers, 9, men",
+      "price": 70,
+      "win_chance": 0.7
+    },
+    {
+      "name": "Crocs Classic Clog Black, sneakers, 12, men",
+      "price": 50,
+      "win_chance": 1
+    },
+    {
+      "name": "Crocs Classic Clog Bone, sneakers, 12, men",
+      "price": 50,
+      "win_chance": 1
+    }
+  ]
+}

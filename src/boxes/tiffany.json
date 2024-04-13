@@ -1,0 +1,57 @@
+{
+  "name": "Tiffany",
+  "unboxing_price": 23.35,
+  "house_edge": 10,
+  "items": [
+    {
+      "name": "Voucher",
+      "price": 0.01,
+      "win_chance": 72.72
+    },
+    {
+      "name": "Rimowa x Tiffany & Co. Jewelry Personal Tiffany Blue, handbags, women",
+      "price": 3199,
+      "win_chance": 0.05
+    },
+    {
+      "name": "Supreme Tiffany & Co. Star Bracelet Silver, streetwear, unisex",
+      "price": 1225,
+      "win_chance": 0.1
+    },
+    {
+      "name": "Tiffany x FENDI Medium Baguette in Tiffany Blue Silk Satin, Silver and Enamel, handbags, women",
+      "price": 6700,
+      "win_chance": 0.01
+    },
+    {
+      "name": "Nike SB Dunk Low Diamond Supply Co., sneakers, 4, men",
+      "price": 4200,
+      "win_chance": 0.02
+    },
+    {
+      "name": "Tiffany & Co. x Spalding Basketball, collectibles, men",
+      "price": 1050,
+      "win_chance": 0.1
+    },
+    {
+      "name": "Nike SB Dunk High Diamond Supply Co., sneakers, 9, men",
+      "price": 698,
+      "win_chance": 0.5
+    },
+    {
+      "name": "Tiffany & Co. x NBA x Mitchell & Ness Basketball Jersey Tiffany Blue/Black, streetwear, XS, men",
+      "price": 535,
+      "win_chance": 0.5
+    },
+    {
+      "name": "Tiffany & Co. Assouline Crafting Victory Hardcover Book, collectibles, unisex",
+      "price": 342,
+      "win_chance": 1
+    },
+    {
+      "name": "Supreme x Tiffany & Co. Box Logo Sticker, collectibles, unisex",
+      "price": 25,
+      "win_chance": 25
+    }
+  ]
+}

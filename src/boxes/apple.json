@@ -1,0 +1,122 @@
+{
+  "name": "Apple",
+  "unboxing_price": 419.32,
+  "house_edge": 10,
+  "items": [
+    {
+      "name": "Voucher",
+      "price": 1,
+      "win_chance": 16.2
+    },
+    {
+      "name": "Apple Macbook Pro 14\" M2 MAX 12-Core CPU 30-Core GPU 32GB RAM 1TB SSD 2023 Model MPHK3LL/A Silver, collectibles, unisex",
+      "price": 2425.5,
+      "win_chance": 0.5
+    },
+    {
+      "name": "Apple Macbook Pro 16\" M2 Pro 12-Core CPU 38-Core GPU 32GB RAM 1TB SSD 2023 Model MNWA3LL/A Space Gray, collectibles, unisex",
+      "price": 2425.5,
+      "win_chance": 0.5
+    },
+    {
+      "name": "Apple iMac Pro 27\" Intel Xeon 32GB RAM 1TB SSD AMD Radeon RX Vega 56 Mac OS MQ2Y2LL/A Black, collectibles, unisex",
+      "price": 3681.25,
+      "win_chance": 0.1
+    },
+    {
+      "name": "Apple MacBook Pro 16 Inch M1 Max Chip 32GB RAM 1TB SSD M1 Max 32-Core Mac OS MK1H3LL/A Silver, collectibles, unisex",
+      "price": 3528,
+      "win_chance": 0.1
+    },
+    {
+      "name": "Apple MacBook Pro 16\" Apple M2 Chip 16GB RAM 1TB SSD M2 Pro 19-core macOS Laptop MNW93LL/A Space Gray, collectibles, unisex",
+      "price": 2006.55,
+      "win_chance": 0.7
+    },
+    {
+      "name": "Apple iMac 27\" Intel Core i7 8BG RAM 512GB SSD Radeon Pro 5500 XT macOS MXWV2LL/A, collectibles, unisex",
+      "price": 1874.25,
+      "win_chance": 0.7
+    },
+    {
+      "name": "Apple Mac Studio M1 Max 24-core 32GB RAM 512GB SSD Mac OS Desktop Computer MJMV3LL/A Silver, collectibles, unisex",
+      "price": 1819.13,
+      "win_chance": 0.7
+    },
+    {
+      "name": "Apple Studio Display 5K 27\" 5120 x 2880 Nano-Texture Glass Tilt Adjustable MMYW3LL/A Silver, collectibles, unisex",
+      "price": 2348.33,
+      "win_chance": 0.5
+    },
+    {
+      "name": "Apple iPhone 13 Pro Max A2484 (US Unlocked) Graphite, collectibles, 512 GB MLKW3LL/A, unisex",
+      "price": 1323,
+      "win_chance": 1
+    },
+    {
+      "name": "Apple iPhone 14 Pro A2650 (US Unlocked) Silver, collectibles, 512 GB MQ1U3LL/A, unisex",
+      "price": 1323,
+      "win_chance": 1
+    },
+    {
+      "name": "Apple iPhone 14 Pro A2650 (US Unlocked) Deep Purple, collectibles, 512 GB MQ273LL/A, unisex",
+      "price": 1323,
+      "win_chance": 1
+    },
+    {
+      "name": "Apple Macbook Air 13 Inch M1 Chip 8GB RAM 256GB SSD Mac OS ‎MGN63LL/A Space Gray, collectibles, unisex",
+      "price": 744.19,
+      "win_chance": 3
+    },
+    {
+      "name": "Apple iPhone 14 A2649 (US Unlocked) Purple, collectibles, 128 GB MPUX3LL/A, unisex",
+      "price": 606.38,
+      "win_chance": 5
+    },
+    {
+      "name": "Apple AirPods Max Headphones Space Gray, collectibles, unisex",
+      "price": 488,
+      "win_chance": 5
+    },
+    {
+      "name": "Apple AirPods Max Headphones Silver, collectibles, unisex",
+      "price": 489.51,
+      "win_chance": 5
+    },
+    {
+      "name": "Apple iPad Air 10.9\" 5th Gen Wifi (US) Space Gray, collectibles, 64 GB MM9C3LL/A, unisex",
+      "price": 572.2,
+      "win_chance": 5
+    },
+    {
+      "name": "Apple iPad Air 10.9\" 5th Gen Wifi (US) Purple, collectibles, 64 GB MME23LL/A, unisex",
+      "price": 485.1,
+      "win_chance": 5
+    },
+    {
+      "name": "Apple iPad 10.2\" 8th Gen Wifi (US) Gold, collectibles, 32 GB MYLC2LL/A, unisex",
+      "price": 396.9,
+      "win_chance": 7
+    },
+    {
+      "name": "Apple Watch Series 8 GPS+Cellular 45mm Midnight Aluminum with Midnight Sport Band A2774, collectibles, M/L, unisex",
+      "price": 385.88,
+      "win_chance": 7
+    },
+    {
+      "name": "Apple AirPods Pro Magsafe (2021) MLWK3AM/A, collectibles, unisex",
+      "price": 184.12,
+      "win_chance": 10
+    },
+    {
+      "name": "Apple Airpods Pro (2nd Gen/2022) MQD83AM/A / MQD83ZM/A White, collectibles, unisex",
+      "price": 160.97,
+      "win_chance": 10
+    },
+    {
+      "name": "Apple MagSafe Battery Pack MJWY3AM/A, collectibles, unisex",
+      "price": 97.02,
+      "win_chance": 15
+    }
+  ]
+}
